@@ -1,0 +1,25 @@
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+.box:hover {
+  background-color: rgb(29, 26, 26);
+}
+
+.b-right-bottom {
+  border-bottom: 1px solid #fff;
+  border-right: 1px solid #fff;
+}
+
+.b-bottom {
+  border-bottom: 1px solid #fff;
+}
+
+.b-right {
+  border-right: 1px solid #fff;
+}
