@@ -1,7 +1,7 @@
 
 # Tic-Tac-Toe
 
- This is simple game Tic-Tac-Toe Game for user entertainment.
+ This is simple Tic-Tac-Toe Game for user entertainment.
 
  
 
